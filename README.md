@@ -1,3 +1,3 @@
 # gdiu_webcontent
 
-events
+for some reason this has to be updated to get the served files to update...
