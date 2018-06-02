@@ -19,4 +19,4 @@ All data is stored at the top level.
 - #(some.url)[small tag1 tag2] makes an inline image with src 'some.url' and classes 'small tag1 tag2'
 - [some.url][some text] makes a new-tab link to some.url with text 'some text'
 - [=some.url][some text] makes a same-tab link to some.url with text 'some text'
-- Two new-line characters will be replaced with a double <br/> (one newline will be ignored)
+- Two new-line characters will be replaced with a double &lt;br/&gt; (one newline will be ignored)
