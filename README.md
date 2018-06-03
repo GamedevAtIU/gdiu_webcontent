@@ -10,6 +10,7 @@ All data is stored at the top level.
 - <$tag>some.url</$tag> injected image element is given a src attribute 'some.url'
 - <&tag>some.url</&tag> injected element is given a background image "url('some.url')"
 - <@tag>formatted text</@tag> injected content is preprocessed according to formatting described below
+- <~tag>text</~tag> injected element gains a value='text' attribute
 
 ### mu Preprocessor formating
 - p(text) makes a paragraph of text
