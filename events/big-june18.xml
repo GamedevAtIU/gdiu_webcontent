@@ -1,11 +1,16 @@
 <title>B.I.G. Night</title>
 
 <date>6/18</date>
-<time>7PM</time>
+<time>7:30PM</time>
 
 <location>Game Lab (FH035)</location>
 
-<body>This is an event and it's really neat!</body>
+<@short>
+Join us in the Franklin Hall Game Lab for the June meeting of Bloomington Indie Games! Come see what local developers are making, show off your projects, or just play some neat games!
+</@short>
+<@body>
+Join us in the Franklin Hall Game Lab for the June meeting of Bloomington Indie Games! Come see what local developers are making, show off your projects, or just play some neat games!
+</@body>
 
 <*tag>General</*tag>
 <&thumb>/wc/img/gamelab-will.jpg</&thumb>

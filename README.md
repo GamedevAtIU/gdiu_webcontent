@@ -13,8 +13,8 @@ All data is stored at the top level.
 - <~tag>text</~tag> injected element gains a value='text' attribute
 
 ### mu Preprocessor formating
-- p(text) makes a paragraph of text
-- =text= makes heading text
+- ((text)) makes a paragraph of text
+- ==text== makes heading text
 - *text* makes bold text
 - _text_ makes italicized text
 - #(some.url)[small tag1 tag2] makes an inline image with src 'some.url' and classes 'small tag1 tag2'
