@@ -15,7 +15,7 @@ All data is stored at the top level.
 ### mu Preprocessor formating
 - ((text)) makes a paragraph of text
 - ==text== makes heading text
-- *text* makes bold text
+- \*text\* makes bold text
 - _text_ makes italicized text
 - #(some.url)[small tag1 tag2] makes an inline image with src 'some.url' and classes 'small tag1 tag2'
 - [some.url][some text] makes a new-tab link to some.url with text 'some text'
