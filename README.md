@@ -9,7 +9,7 @@ All data is stored at the top level.
 - <*tag>e1, e2, e3</*tag> creates a tag list with comma-separated values
 - <$tag>some.url</$tag> injected image element is given a src attribute 'some.url'
 - <&tag>some.url</&tag> injected element is given a background image "url('some.url')"
-- <@tag>formatted text</@tag> injected content is preprocessed according to formatting described below
+- <@tag>formatted text<\/@tag> injected content is preprocessed according to formatting described below
 - <~tag>text</~tag> injected element gains a value='text' attribute
 
 ### mu Preprocessor formating
@@ -17,7 +17,7 @@ All data is stored at the top level.
 - ==text== makes heading text
 - \*text\* makes bold text
 - \_text\_ makes italicized text
-- #(some.url)[small tag1 tag2] makes an inline image with src 'some.url' and classes 'small tag1 tag2'
+- #(some.url)\[small tag1 tag2] makes an inline image with src 'some.url' and classes 'small tag1 tag2'
 - [some.url][some text] makes a new-tab link to some.url with text 'some text'
-- [=some.url][some text] makes a same-tab link to some.url with text 'some text'
+- \[=some.url]\[some text] makes a same-tab link to some.url with text 'some text'
 - Two new-line characters will be replaced with a double &lt;br/&gt; (one newline will be ignored)
