@@ -1,0 +1,19 @@
+<event>
+  <title>Game Design from Programming Concepts</title>
+  <thumb>./img/misc/Kirby_ComputerVirus.PNG</thumb>
+  <date>9/24</date>
+  <time>6:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Do you have all sorts of ideas for the dream games you’ve always wanted to make, but no idea how to translate those ideas into usable game code? Look no further than this workshop! 
+    ))((
+    We will explore how various fundamental programming concepts can be used to implement classic game mechanics such as Enemy Types, an RPG Inventory, and more!
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+  <tag>Design SIG</tag>
+</event>

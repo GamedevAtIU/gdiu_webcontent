@@ -1,0 +1,18 @@
+<event>
+  <title>Intro to Unity Shaders &amp; UE4 Materials</title>
+  <thumb>https://i.ytimg.com/vi/F7xRc-iSLXg/maxresdefault.jpg</thumb>
+  <date>10/29</date>
+  <time>6:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Have you ever wondered how games create their iconic visual effects and styles? Have you heard the word __shaders__ and been left in a state of confusion? 
+    ))((
+    Come on out to learn how utilize tools in popular game engines to create visual effects and materials!
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+</event>

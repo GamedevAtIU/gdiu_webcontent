@@ -1,0 +1,16 @@
+<event>
+  <title>Tech SIG Project Showcase and Career Advice</title>
+  <thumb>./img/iugd/HG_SlugSlasher.jpg</thumb>
+  <date>12/3</date>
+  <time>6:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Come on out to see what the GD@IU Tech SIG has been up to this semester! We’ll be showcasing projects made by members and looking at a variety of ways to start up a career in the games industry.
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+</event>

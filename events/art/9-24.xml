@@ -1,0 +1,23 @@
+<event>
+  <title>Design-A-Room Workshop</title>
+  <thumb>https://i.pinimg.com/originals/17/f4/57/17f457c33cee258af2c6b639109e3acf.png</thumb>
+  <date>9/24</date>
+  <time>4:00PM</time>
+  <location>FF035 (Game Lab)</location>
+
+  <body>
+    !format
+    ((
+    In this 2 week workshop we will brainstorm level layouts given a theme, and will design a small cubic representation of a building/room/layout of their choice that fits within the chosen theme.
+    ))
+    ((
+    This workshop is designed to help participants practice and/or explore artistic level design, while sticking with a solid and cohesive idea. 
+    Additionally, participants will work on interior design, lighting, and atmosphere to create a simple yet professional model of a room.
+    ))
+    ((
+    Week 1 will be focused on drafting and designing the room, and week 2 will be focused on re-creating those drafts in Unity and/or PhotoShop.
+    ))
+  </body>
+
+  <tag>Art SIG</tag>
+</event>

@@ -1,0 +1,18 @@
+<event>
+  <title>Intro to Git-based Workflows</title>
+  <thumb>https://i1.wp.com/foxutech.com/wp-content/uploads/2018/02/GIT-interview-Question-and-Answers.png?fit=1100%2C481&ssl=1</thumb>
+  <date>10/1</date>
+  <time>6:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Have you ever wanted to share your projects across multiple computers easily or make it easier to have multiple people work on one project? Do you want code changes to be easier to spot between versions of projects? 
+    Come learn how to use Git, the best software to manage your projects.
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+  <tag>General</tag>
+</event>

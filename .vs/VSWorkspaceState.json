@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resources",
+    "\\events",
+    "\\events\\art",
+    "\\events\\tech",
     "\\resources\\art",
     "\\resources\\tech"
   ],
-  "SelectedNode": "\\resources\\tech\\compiler-explorer.xml",
+  "SelectedNode": "\\events\\art\\9-4.xml",
   "PreviewInSolutionExplorer": false
 }
