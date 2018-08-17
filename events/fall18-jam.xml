@@ -1,0 +1,19 @@
+<event>
+  <title>Fall '18 Kickoff Jam</title>
+  <thumb>./img/iugd/HG_GameJamOfficers.JPG</thumb>
+  <date>8/31</date>
+  <time>6:00PM</time>
+  <location>SB015</location>
+
+  <body>
+    !format
+    ((
+    The **Gamedev@IU Lab** will be kicking off the Fall semester with a three-hour game jam! 
+    Attendees will work in small teams to design and develop an entire game based on a provided theme.
+    Whether it's your first jam or your tenth, be sure to come out to this fantastic night of frantic development!
+    ))
+  </body>
+
+  <tag>General</tag>
+  <tag>Lab</tag>
+</event>

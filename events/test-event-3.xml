@@ -1,0 +1,15 @@
+<event>
+  <title>Test Event Threeeeeeee</title>
+  <thumb>./img/IndyPopCon.png</thumb>
+  <date>7/31</date>
+  <time>12:00PM</time>
+  <location>VR Lab (FH052)</location>
+
+  <body>
+    !format
+    Join us in the Franklin Hall Game Lab for the June meeting of Bloomington Indie Games! Come see what local developers are making, show off your projects, or just play some neat games!
+  </body>
+  
+  <tag>Tech SIG</tag>
+  <tag>Lab</tag>
+</event>

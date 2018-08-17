@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\events"
+    "\\resources",
+    "\\resources\\art",
+    "\\resources\\tech"
   ],
-  "SelectedNode": "\\events\\popcon18-1.xml",
+  "SelectedNode": "\\resources\\tech\\compiler-explorer.xml",
   "PreviewInSolutionExplorer": false
 }

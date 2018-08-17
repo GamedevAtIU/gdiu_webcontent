@@ -1,0 +1,23 @@
+<resource>
+  <title>Tutorials by Alan Zucconi</title>
+  <thumb>https://www.alanzucconi.com/wp-content/uploads/2018/01/learning_shaders.png</thumb>
+  <link>https://www.alanzucconi.com/tutorials/</link>
+
+  <body>
+    !format
+    ((
+    [https://twitter.com/AlanZucconi][Alan Zucconi] is an independent developer, lecturer, author, and shader master.
+    His blog contains dozens of in-depth tutorials focusing on topics from computer graphics to machine learning, with many examples based in Unity.
+    ))
+    ((
+    Most posts and tutorials require a fairly solid foundation when it comes to programming, though many offer great introductions to more complex topics, [http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/][such as writing shaders].
+    ))
+    ((
+    Early access to tutorials and additional resources can also be obtained by [https://www.patreon.com/AlanZucconi][supporting Alan on Patreon]!
+    ))
+  </body>
+  
+  <tag>Graphics</tag>
+  <tag>AI</tag>
+  <tag>Math</tag>
+</resource>

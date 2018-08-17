@@ -1,0 +1,19 @@
+<resource>
+  <title>Onimille Pixelart Tutorials</title>
+  <thumb>https://78.media.tumblr.com/17e9b022f1b31d11680bbb081df60a4b/tumblr_ocya5iQJum1vf6851o1_400.png</thumb>
+  <link>https://onimille.tumblr.com/</link>
+  
+  <body>
+    !format
+    ((
+    Onimille's blog contains a number of tutorials focused on pixelart fundamentals and step-by-step processes for creating various textures.
+    ))
+    ((
+    Whether you're just starting out or have years of experience, the collection can has plenty of fantastic references and tips for making high-quality pixelart. 
+    Be sure to look through and bookmark the page so you don't miss any new posts!
+    ))
+  </body>
+
+  <tag>Pixel Art</tag>
+  <tag>2D Art</tag>
+</resource>
