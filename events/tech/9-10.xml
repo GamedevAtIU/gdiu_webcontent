@@ -1,18 +1,19 @@
 <event>
-  <title>Tech SIG Work Session</title>
-  <thumb>./img/iugd/HG_GameJamOfficers2.jpg</thumb>
+  <title>Game Engine Fundamentals</title>
+  <thumb>https://instabug.com/blog/wp-content/uploads/2017/12/godot.png</thumb>
   <date>9/10</date>
-  <time>7:00PM</time>
+  <time>6:00PM</time>
   <location>FF052</location>
 
   <body>
     !format
     ((
-    Join the GD@IU Tech SIG each Wednesday for an informal work session!
+    Ever wonder how developers are able to create complex systems without spending an eternity writing everything from scratch? Come learn about some of the basics of creating games using contemporary game engines such as Unity, Unreal, Godot, and more!
     ))((
-    We’ll be introducing the first mini-project of the semester, so be sure to stop by to collaborate and learn from your fellow game programmers!
+    We’ll be looking at what each engine does, what they all have in common, and how you can make the most of your engine of choice.
     ))
   </body>
 
   <tag>Tech SIG</tag>
+  <tag>General</tag>
 </event>
