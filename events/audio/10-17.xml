@@ -1,0 +1,16 @@
+<event>
+  <title>Audio Integration in Celeste</title>
+  <thumb>https://cdn3.dualshockers.com/wp-content/uploads/2018/01/Switch_Celeste_Screen41.png</thumb>
+  <date>10/17</date>
+  <time>6:00PM</time>
+  <location>Franklin Hall 052</location>
+
+  <body>
+    !format
+    ((
+    We will be opening the completed Celeste FMOD project and dissecting it to find just how the game's audio team manipulated the sounds she created to make the final product that we can hear in Celeste. A highlight reel of developer commentary will also be shown so we can see how ideas became reality.
+    ))
+  </body>
+
+  <tag>Audio SIG</tag>
+</event>
