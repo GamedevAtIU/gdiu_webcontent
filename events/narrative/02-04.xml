@@ -1,0 +1,15 @@
+<event>
+  <title>Quests</title>
+  <thumb>https://image.flaticon.com/icons/svg/708/708739.svg</thumb>
+  <date>2/4</date>
+  <time>2:30PM</time>
+  <location>Franklin Hall Game Lab</location>
+
+  <body>
+    !format
+    Introduction to developing quests
+  </body>
+
+  <tag>Narrative SIG</tag>
+
+</event>

@@ -1,0 +1,15 @@
+<event>
+  <title>Missions</title>
+  <thumb>https://image.flaticon.com/icons/svg/78/78394.svg</thumb>
+  <date>2/11</date>
+  <time>2:30PM</time>
+  <location>Franklin Hall Game Lab</location>
+
+  <body>
+    !format
+    Missions and using rails within dialogue
+  </body>
+
+  <tag>Narrative SIG</tag>
+
+</event>
