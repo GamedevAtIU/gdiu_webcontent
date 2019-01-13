@@ -1,0 +1,18 @@
+<event>
+  <title>IU Games Summit</title>
+  <thumb>http://gundpartnership.com/sites/default/files/news/commons1.jpg</thumb>
+  <date>8/29</date>
+  <time>6:00PM</time>
+  <location>Franklin Hall Commons</location>
+
+  <body>
+    !format
+    ((
+    Want to learn what IU student organizations have to offer? Join us for the 2018 IU Games Summit!
+    Hosted by Gamedev@IU and the CEWiT Game Design SIG, the summit will feature a variety of student-run organizations focused on designing, developing, and playing games.
+    Be sure to come out and learn what's going on this semester!
+    ))
+  </body>
+
+  <tag>General</tag>
+</event>

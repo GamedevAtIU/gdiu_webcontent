@@ -1,0 +1,19 @@
+<event>
+  <title>Pathfinding 101</title>
+  <thumb>https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif</thumb>
+  <date>11/12</date>
+  <time>7:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Ever want to know how to program something in your game to navigate from point A to point B? Try pathfinding! 
+    ))
+    ((
+    Learn, implement, and compare different pathfinding algorithms such as BFS, Dijkstra, A*, and more!
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+</event>

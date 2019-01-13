@@ -1,0 +1,19 @@
+<event>
+  <title>Game Engine Fundamentals</title>
+  <thumb>https://instabug.com/blog/wp-content/uploads/2017/12/godot.png</thumb>
+  <date>9/10</date>
+  <time>7:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Ever wonder how developers are able to create complex systems without spending an eternity writing everything from scratch? Come learn about some of the basics of creating games using contemporary game engines such as Unity, Unreal, Godot, and more!
+    ))((
+    We’ll be looking at what each engine does, what they all have in common, and how you can make the most of your engine of choice.
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+  <tag>General</tag>
+</event>

@@ -1,0 +1,18 @@
+<event>
+	<title>Design SIG Pitch Night</title>
+	<thumb>./img/iugd/HG_PitchNight.jpg</thumb>
+	<date>11/29</date>
+	<time>7:00PM</time>
+	<location>FF210</location>
+
+	<body>
+		!format
+		((
+		The GD@IU Design SIG hosts a weekly Pitch Night where we give game pitches based on prompts chosen the week before! 
+		))((
+		No work will be done on the games that are pitched, the point is purely to gain experience pitching ideas and to have fun doing so! 
+		))
+	</body>
+
+	<tag>Design SIG</tag>
+</event>

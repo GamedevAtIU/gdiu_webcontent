@@ -1,0 +1,19 @@
+<event>
+  <title>Game Programming Patterns: An Introduction</title>
+  <thumb>https://gameprogrammingpatterns.com/images/splash.jpg</thumb>
+  <date>10/15</date>
+  <time>7:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Programming patterns are generalized, reusable solutions to common problems in software development.
+    ))
+    ((
+    Based on the book Game Programming Patterns by Robert Nystrom, learn about specific patterns especially relevant to game development like singletons, bytecode, state machines, and more!
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+</event>

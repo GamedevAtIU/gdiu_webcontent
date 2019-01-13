@@ -1,0 +1,16 @@
+<event>
+  <title>Artwork Review Finale</title>
+  <thumb>https://www.studentartguide.com/wp-content/uploads/2015/04/art-school-portfolio.jpg</thumb>
+  <date>11/27</date>
+  <time>5:00PM</time>
+  <location>FF035 (Game Lab)</location>
+
+  <body>
+    !format
+    ((
+    Want some feedback on your work, but don't know where to go? Bring your work here, show off and get constructive feedback and encouragement. Nervous or unsure what to bring? Come anyway! See the work of your peers and give them feedback!
+    ))
+  </body>
+
+  <tag>Art SIG</tag>
+</event>

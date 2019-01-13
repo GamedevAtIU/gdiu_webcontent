@@ -1,0 +1,15 @@
+<event>
+  <title>Game Programming Fundamentals</title>
+  <thumb>https://unity3d.com/profiles/unity3d/themes/unity/images/assets/og/front.jpg</thumb>
+  <date>2/1</date>
+  <time>5:00PM</time>
+  <location>FF035</location>
+
+  <body>
+    !format
+    Interested in making games or other interactive media but don't know where to start? Know a bit about Unity and want to brush up on your programming skills? The GD@IU Tech SIG will be presenting a hands-on workshop exploring the basics of game development and fundamentals of game programming with Unity and C#.
+  </body>
+
+  <tag>Tech</tag>
+
+</event>

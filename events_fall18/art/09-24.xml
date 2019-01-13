@@ -1,0 +1,23 @@
+<event>
+  <title>Design-A-Room Workshop</title>
+  <thumb>https://i.pinimg.com/originals/17/f4/57/17f457c33cee258af2c6b639109e3acf.png</thumb>
+  <date>9/24</date>
+  <time>4:00</time>
+  <location>FF035 (Game Lab)</location>
+
+  <body>
+    !format
+    ((
+    In this workshop we will brainstorm room layouts given a theme, and will design a small representation of a building/room/layout of their choice that fits within the chosen theme.
+    ))
+    ((
+    This workshop is designed to help participants practice and/or explore artistic environmental design, while sticking with a solid and cohesive idea. 
+    Additionally, participants will work on interior design, lighting, and atmosphere to create a simple concept of a room and how these aspects relate to game design.
+    ))
+    ((
+    During the workshop we will focus on various artistic techniques and aspects that add to the development of cohesive, in-depth environments.
+    ))
+  </body>
+
+  <tag>Art SIG</tag>
+</event>

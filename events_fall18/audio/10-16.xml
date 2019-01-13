@@ -1,0 +1,16 @@
+<event>
+  <title>Middleware Introduction - FMOD</title>
+  <thumb>https://developers.google.com/resonance-audio/images/fmod/fmod_hero.png</thumb>
+  <date>10/16</date>
+  <time>6:00PM</time>
+  <location>Franklin Hall 052</location>
+
+  <body>
+    !format
+    ((
+    We will be covering the basics of FMOD. From navigating the workspace, its inspiration from Ableton, terminology, and how to use it when testing your project!
+    ))
+  </body>
+
+  <tag>Audio SIG</tag>
+</event>

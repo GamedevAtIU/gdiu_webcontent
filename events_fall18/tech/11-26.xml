@@ -1,0 +1,16 @@
+<event>
+  <title>Introduction to Behavior Trees</title>
+  <thumb>https://docs.unrealengine.com/portals/0/images/Engine/AI/BehaviorTrees/QuickStart/14/DoneBehaviorTree.jpg</thumb>
+  <date>11/26</date>
+  <time>7:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    ((
+    Make your NPCs behavior more interesting and versatile with behavior trees! Implement a basic stealth enemy in Unreal using behavior trees to drive its AI logic.
+    ))
+  </body>
+
+  <tag>Tech SIG</tag>
+</event>

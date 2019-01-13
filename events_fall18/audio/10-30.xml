@@ -1,0 +1,16 @@
+<event>
+  <title>Procedural Music</title>
+  <thumb>https://i.ytimg.com/vi/ze6TBZ8TkPE/maxresdefault.jpg</thumb>
+  <date>10/30</date>
+  <time>6:00PM</time>
+  <location>Franklin Hall 052</location>
+
+  <body>
+    !format
+    ((
+    Join us with guest speaker Norbert Herber as he shares with us the implementation, theory, limitations, and general practice of creating procedural music!
+    ))
+  </body>
+
+  <tag>Audio SIG</tag>
+</event>
