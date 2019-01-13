@@ -1,0 +1,15 @@
+<event>
+  <title>Cutscene</title>
+  <thumb>https://cdn1.iconfinder.com/data/icons/24-virtual-reality-perfect-outline-modern-and-clea/47/movie-cut-scene-shooting-512.png</thumb>
+  <date>3/4</date>
+  <time>2:30PM</time>
+  <location>Game Lab (FF035)</location>
+
+  <body>
+    !format
+    Discussion of the use of cutscenes in games
+  </body>
+
+  <tag>Narrative SIG</tag>
+
+</event>
