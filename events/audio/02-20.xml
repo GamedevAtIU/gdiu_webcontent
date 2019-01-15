@@ -1,0 +1,15 @@
+<event>
+  <title>Wrapping up Middleware</title>
+  <thumb>https://winifredphillips.files.wordpress.com/2013/07/wwise-fmod.jpg</thumb>
+  <date>2/20</date>
+  <time>6:00PM</time>
+  <location>Game Lab (FF035)</location>
+
+  <body>
+    !format
+    We will be covering more advanced topics in middleware and how different middleware works. This is also a great chance for Workshop students to playtest their sounds in their games while also iterating new sounds and dealing with technical issues
+  </body>
+
+  <tag>Audio SIG</tag>
+
+</event>
