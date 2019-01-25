@@ -1,13 +1,13 @@
 <event>
-  <title>Missions</title>
-  <thumb>https://image.flaticon.com/icons/svg/78/78394.svg</thumb>
+  <title>Quests</title>
+  <thumb>https://image.flaticon.com/icons/svg/708/708739.svg</thumb>
   <date>2/11</date>
   <time>2:30PM</time>
   <location>Game Lab (FF035)</location>
 
   <body>
     !format
-    Missions and using rails within dialogue
+    Introduction to developing quests
   </body>
 
   <tag>Narrative SIG</tag>

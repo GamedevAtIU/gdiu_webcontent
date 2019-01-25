@@ -1,13 +1,13 @@
 <event>
-  <title>Quests</title>
-  <thumb>https://image.flaticon.com/icons/svg/708/708739.svg</thumb>
+  <title>Dialogue II</title>
+  <thumb>https://swoonproduction.s3.amazonaws.com/media/images/dialogue_header.2e16d0ba.fill-620x413.jpg</thumb>
   <date>2/4</date>
   <time>2:30PM</time>
   <location>Game Lab (FF035)</location>
 
   <body>
     !format
-    Introduction to developing quests
+    Dialogue styles between different characters
   </body>
 
   <tag>Narrative SIG</tag>

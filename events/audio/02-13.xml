@@ -1,0 +1,15 @@
+<event>
+  <title>Splitting Even with Middleware</title>
+  <thumb>https://static.giantbomb.com/uploads/scale_medium/0/573/1149509-fmod_logo_reflect.jpg</thumb>
+  <date>2/13</date>
+  <time>6:00PM</time>
+  <location>FF052</location>
+
+  <body>
+    !format
+    Derived off the previous week's event, we will dive into FMOD, a 3rd party software, that will make a sound designer's life much easier and allow greater freedom to attempt more complex sound design techniques
+  </body>
+
+  <tag>Audio SIG</tag>
+
+</event>
