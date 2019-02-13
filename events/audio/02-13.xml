@@ -1,5 +1,5 @@
 <event>
-  <title>Splitting Even with Middleware</title>
+  <title>Getting Started On a Project - Audio Edition</title>
   <thumb>https://static.giantbomb.com/uploads/scale_medium/0/573/1149509-fmod_logo_reflect.jpg</thumb>
   <date>2/13</date>
   <time>6:00PM</time>
@@ -7,7 +7,7 @@
 
   <body>
     !format
-    Derived off the previous week's event, we will dive into FMOD, a 3rd party software, that will make a sound designer's life much easier and allow greater freedom to attempt more complex sound design techniques
+    We will cover the check list of things to know as a sound designer in order to make constructing sounds for a project as easy as possible such as: questions to ask designers, artists, and programmers, setting up and managing a sound bible, and managing assets
   </body>
 
   <tag>Audio SIG</tag>

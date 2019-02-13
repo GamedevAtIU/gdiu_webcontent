@@ -1,5 +1,5 @@
 <event>
-  <title>Musical Instrument Digital Interface (MIDI)</title>
+  <title>Balance & Layering Sounds</title>
   <thumb>https://upload.wikimedia.org/wikipedia/commons/d/d3/Jam_session_-_MFB_Nanozwerg%2C_Access_Virus_A%2C_TT-303%2C_Dark_Energy_II%2C_Minibrute%2C_Kaoss_Pad_mini%2C_Volca_Bass%2C_MFB_Synth_Lite%2C_x0xb0x%2C_TB-3%2C_Midisport_4x4%2C_Volca_Keys%2C_LaunchPad%2C_Alto_GHIBLI_16FX%2C_Electribe_MX%2C_TR-8%2C_Kaossilator_%28by_David_J%29.jpg</thumb>
   <date>3/6</date>
   <time>6:00PM</time>
@@ -7,7 +7,7 @@
 
   <body>
     !format
-    Learn about Synthsizers, where they came from and how they work on a basic level. We will cover terminology that corresponds to components of synthesizers. 
+    Now that you've got lots of sounds and music, what do you do? Come out and learn some tips and tricks to help balance your soundscapes in your games. We'll ask important questions that you should always have on your mind when dealing with lots of sounds in your game.
   </body>
 
   <tag>Audio SIG</tag>
