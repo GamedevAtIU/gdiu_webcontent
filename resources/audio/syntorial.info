@@ -1,0 +1,20 @@
+title : Syntorial
+thumb : https://www.beatlabacademy.com/wp-content/uploads/2015/10/syntorial-blog-post.png
+link  : https://www.syntorial.com/
+
+body : {
+    !format
+    Syntorial is a synthesizer training program for both beginners and advanced synth programmers (not to be confused with computer programmers). 
+
+    The tutorials cover every knob on a standard synthesizer one at a time, as well as in combination with other knobs.
+    The program covers what each knob does to the sound, provides ear training to help distinguish between the different effects, highlights common uses of each effect in music, and discusses troubleshooting errors that may lead to unwanted effects.
+
+    This program is highly recommend for anyone who wants a comprehensive knowledge of synthesizers.
+    The first 22 lessons are free, while the rest can be obtained at a student discount of $80 (normally $130).
+    It is also important to note that the paid version comes with the Primer synth plug-in, which can be used in any Digital Audio Workstation.
+    Additional information about specific brands of synthesizers, as well as synthesizers from famous pop and rock songs, can be found for free at the [Syntorial Youtube channel](https://www.youtube.com/channel/UCnBxSfOzdOpU6ySNS8NVYUQ).
+}
+
+tag : Music
+tag : Sound Design
+tag : Tools

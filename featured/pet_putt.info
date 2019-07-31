@@ -1,0 +1,21 @@
+# Added by Rajin (7/31/19)
+
+title : Pet Putt
+thumb : /wc/img/games/PetPutt_Screen1.png
+link  : http://petputt.com
+
+homepage_link : /featured/pet_putt.html
+
+author : Rajin Shankar
+
+body : {
+    !format
+    **Pet Putt** is an adorable mini-golf game by GD@IU member [Rajin Shankar](https://twitter.com/rajinshankar) featuring a wide cast of animal friends and hybrid puzzle-golf gameplay on spherical levels.
+    
+    After just 3 months of development, **Pet Putt** has already seen positive reactions after a successful showcase at [Indy PopCon](https://popcon.us/indy/) 2019 where it was given the __Best Aesthetic__ award by a panel of industry judges.
+
+    The game is currently in development (using the open-source [Godot](http://godotengine.org) game engine), with a planned release during the first half of 2020. You can follow the game's development on [Rajin's Twitter,](https://twitter.com/rajinshankar) and support it on [Patreon!](https://patreon.com/rajin) Patrons at all tiers also have access to all past, present, and future demo versions of the game.
+}
+
+tag : Student Project
+tag : Featured

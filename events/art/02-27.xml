@@ -1,15 +1,16 @@
 <event>
+  <meta>
+    <author>Generated</author>
+    <generatorVersion>1.0.3</generatorVersion>
+  </meta>
   <title>Tilemaps: Tools, Techniques, and Design Considerations</title>
   <thumb>http://lh4.ggpht.com/-aX2aSRM5Qa8/T0Xb-YU1MhI/AAAAAAAAD_c/EKolznst_zg/facebook-portfolio%25255B6%25255D.png?imgmax=800</thumb>
   <date>2/27</date>
   <time>6:00PM</time>
   <location>Game Lab (FF035)</location>
-
   <body>
-    !format
-    Learn how to use tilemaps and the benefits of using them.   
+!format
+Learn how to use tilemaps and the benefits of using them.   
   </body>
-
   <tag>Art SIG</tag>
-
 </event>

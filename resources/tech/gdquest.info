@@ -1,0 +1,19 @@
+title : GDQuest Tutorials
+thumb : https://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/img/banner.png
+link  : https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ
+
+body : {
+    !format
+    GDQuest is a great resource for those who want high quality tutorials for [Godot](https://godotengine.org/), [Krita](https://krita.org/en/), and other open source tools for game development.
+    Run by [Nathan](https://twitter.com/NathanGDquest), a prominent member in the Godot community, all the tools used to make the tutorials are open source.
+    If you want to take a step away from the standard Unity or Unreal engines, this is the place for you.
+
+    Most of the tutorials are based on [beginner](https://www.youtube.com/watch?v=pnBioV2HkS8) to [intermediate](https://www.youtube.com/watch?v=AobjNjzZhmo) topics, and will usually require some background knowledge on coding.
+    Besides that, GDQuest builds [projects](https://github.com/GDquest/godot-metroidvania-2d) that coincide with their paid courses. You can use the projects free of charge for your own games as well!
+
+    If you want to support GDQuest, take a look at their [shop](https://gumroad.com/gdquest) which has courses and various tools you can use in your projects.
+}
+
+tag : Fundamentals
+tag : Godot
+tag : Open Source

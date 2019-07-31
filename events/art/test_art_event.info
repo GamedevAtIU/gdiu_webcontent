@@ -1,0 +1,12 @@
+title    : Test Art Event
+thumb    : https://leantesting-wp.s3.amazonaws.com/resources/wp-content/uploads/2015/05/iterative-3.png
+date     : 3/27
+time     : 6:00PM
+location : FF052
+body     : {
+    !format
+    **We'll** __review__ everything **that has been** __**covered**__ throughout the semester ranging from Sound Effects, Music, Middleware implementation, and take in any requests for topics that might need to be covered in more detail.
+}
+
+tag      : Audio
+tag      : Art

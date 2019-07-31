@@ -1,0 +1,46 @@
+title : Summer 2019
+thumb : /wc/img/gdiu/PopCon19_Booth.png
+
+hide-thumb : true
+
+date   : 7.31.19
+author : Rajin Shankar
+
+body : {
+    !format
+    ## Hard at Work ##
+    ![GD@IU at Indy PopCon 2019](/wc/img/gdiu/PopCon19_Booth.png) <left>
+
+    With the spring semester over and a welcome moment of respite from assignments and exams, Gamedev@IU members have been working hard this summer to hone their skills, showcase their work, and give back to their community. \\ \\
+
+    ## June '19 Jam ##
+    ![Rajin's Pico-8 game](/wc/img/games/Rajin-Pico8.gif) <right>
+
+    At the beginning of June, several members, including Gamedev@IU Vice Presidents [Rajin Shankar](https://twitter.com/rajinshankar) and [Devlin McClure](https://twitter.com/Devlin_McClure), got together at the Franklin Hall Game Lab for a game jam based around using limited and unfamiliar tools to make a game in 72 hours.
+    
+    While nobody made something that will become the next hit indie title, participants had fun messing with [GBStudio](https://www.gbstudio.dev/), [Pico-8](https://www.lexaloffle.com/pico-8.php), and [Bitsy](https://ledoux.itch.io/bitsy) to put together small experiences and break the monotony of only working on large projects in commercial-grade engine like [Unity](https://unity.com/) and [Unreal](https://www.unrealengine.com).
+
+    ## Indy PopCon ##
+    ![GD@IU at Indy PopCon 2019](/wc/img/gdiu/PopCon19_Booth2.png) <left>
+    
+    Just a week after the June game jam, Gamedev@IU members made their way to Indianapolis for one of the largest pop culture conventions in the state. In addition to [OddestSea](https://twitter.com/oddestsea) and [Fateful<>Remedies](https://twitter.com/fatefulremedies), games produced in the IU Game Design Program's Workshop series of classes, [Rajin](https://twitter.com/rajinshankar) showed off several independent projects, including [Pet<>Putt](http://petputt.com), [Hyperspace<>Drifter](https://rajin.itch.io/hyperspace-drifter), [Paper<>Jam](https://patreon.com/rajin), and [Pong<>2:<>Electric<>Boogaloo](https://patreon.com/rajin).
+
+    PopCon attendees enjoyed playing all the games, and **Pet Putt** even won the __0th Annual Secret Awards__ prize for __Best Aesthetic__. IU Game Design Workshop teams will be using this showcasing experience again soon when they present at [GDEX](http://thegdex.com) in October.
+
+    ## Game Camp ##
+    ![IU Game Development Camp: GirlPowered!](https://gamecamp.mediaschool.indiana.edu/wp-content/uploads/sites/11/2016/05/girlpowered_teamwork_wide.jpg) <right>
+
+    When not working on their own projects, many organization members, including past and current presidents Ryan Reske and Gaby Benninghoff, offered their time to help mentor the upcoming generation of game developers at IU's [Game Development Camp](https://gamecamp.mediaschool.indiana.edu/).
+    
+    Aimed at local students age 13-18, the camp offers multiple sessions focusing on 2D and 3D game development, with IU faculty, staff, and students acting as counselors and instructors.
+
+    ## Projects ##
+    ![TAPS Robo](/wc/img/games/TAPS_Robo.png) <left>
+
+    Aside from showcases and jams, Gamedev@IU members have been hard at work on a wide variety of projects in and outside of the IU Game Design program.
+    
+    Development for [Pet Putt](https://twitter.com/rajinshankar) and [OddestSea](https://twitter.com/oddestsea) has been catalogued on Twitter, and many members have been working with IU Game Design masters student Emma Rausch on a new unannounced project.
+}
+
+tag : GD@IU
+tag : General
