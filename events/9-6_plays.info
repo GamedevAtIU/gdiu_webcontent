@@ -1,0 +1,13 @@
+title    : GD@IU Plays
+thumb    : /wc/img/gdiu/GDIUPlays_Square.png
+date     : 9/6
+time     : 12:00PM
+location : Game Lab (FF035)
+
+body : {
+    !format
+    Join Gamedev@IU every Friday as we play and discuss cool multiplayer games!
+    Be sure to join the #gdiu channel on [Slack](https://iu-games.slack.com) if you want to suggest or volunteer to bring in any games.
+}
+
+tag : General
