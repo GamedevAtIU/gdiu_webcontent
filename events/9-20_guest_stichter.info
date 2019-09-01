@@ -1,0 +1,19 @@
+title    : Guest Speaker: Adam Stichter
+thumb    : https://cf.geekdo-images.com/imagepage/img/P0Q-yC82d1-QWlTuSDXqLvYYSFs=/fit-in/900x600/filters:no_upscale()/pic4816343.jpg
+date     : 9/20
+time     : 3:00PM
+location : Game Lab (FF035)
+
+body : {
+    !format
+    Our second guest speaker event will feature Bloomington-based boardgame and escape room designer Adam Stichter,
+    who will be presenting __"Designing a Card Game from Start to Finish: Iteration, Playtesting, and Production"__.
+    He'll discuss a whole-process overview of his latest card game, covering aspects such as prototyping, iterating
+    based on player feedback, and the logistics of bringing the game to market.
+
+    GD@IU will also be holding a brownbag roundtable on independent design work with Adam at 5PM on working as an independent designer.
+    The location is still being decided, so be sure to keep an eye on [Slack](https://iu-games.slack.com) for more info.
+}
+
+tag : General
+tag : Design

@@ -1,0 +1,20 @@
+title    : Guest Speaker: Studio Cypher
+thumb    : https://media.pocketgamer.com/artwork/na-30577-1564785773/diorama-detective-ios-artwork-key-art.jpg
+date     : 9/6
+time     : 3:00PM
+location : Game Lab (FF035)
+
+body : {
+    !format
+    The first of our fall guest speaker lineup, local indie trio Studio Cypher will present
+    __"Diorama Detective: a Mobile-AR Indie Dev Postmortem"__, discussing the design and production
+    of their latest release.
+
+    GD@IU will also be holding a brownbag roundtable on all things indie development with Studio Cypher's
+    Will Emigh, Nathan Mishler, and Ian Pottmeyer at 5PM. The location is still being decided, so be sure to keep
+    an eye on [Slack](https://iu-games.slack.com) for more info.
+}
+
+tag : General
+tag : Design
+tag : Tech

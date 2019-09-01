@@ -1,0 +1,17 @@
+title    : IU Games Summit
+thumb    : /wc/img/gdiu/GDIU_Fall18Summit.jpg
+date     : 9/4
+time     : 6:00PM
+location : Franklin Hall Commons
+
+body : {
+    !format
+    **Gamedev@IU** is kicking off the Fall semester with the third annual **IU Games Summit**!
+    You'll hear from us, as well as other game-related student organizations on the IU Bloomington Campus including
+    Gaming@IU, Smash@IUB, Gamers' Guild, InGame, and the CEW&T Game Design Team.
+    
+    Be sure to stop in and hear about our plans for the upcoming school year, talk to other game developers and players,
+    and grab some free pizza.
+}
+
+tag : General
