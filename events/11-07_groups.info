@@ -1,0 +1,18 @@
+title    : GD@IU Group Meeting
+thumb    : /wc/img/gdiu/GDIU_Fall18Jam1.jpg
+date     : 11/7
+time     : 7:00PM
+location : SB015
+
+body : {
+    !format
+    Gamedev@IU has a full-organization meeting most Thursdays where members split off into groups focused on various areas of game development.
+    Each group will hold its own demos, workshops, projects, and more!
+    Come stop by to learn new skills, explore different aspects of gamedev, or just chat with fellow student developers.
+
+    Currently, GD@IU has groups focusing on **Game Design**, **Game Technology**, **Visual Arts**, **Sound Design & Music**, **Narrative Design**, and **the Games Industry**.
+
+    If you want to know what's going on each week, be sure to join the #gdiu channel in the [IU Game Design Slack](https://iu-games.slack.com)!
+}
+
+tag : General

@@ -1,0 +1,15 @@
+title    : BIG Night
+thumb    : /wc/img/iugd/gamelab-will.jpg
+date     : 12/12
+time     : 6:30PM
+location : Game Lab (FF035)
+
+body : {
+    !format
+    **B**loomington **I**ndie **G**games Night is a monthly get together of local independent game developers.
+    Gamedev@IU members are encouraged to come out, show off their work, see what others in the community are making, or just to chat while playing some fresh prototypes!
+
+    BIG Night is the second Thursday of each month, and it replaces any other GD@IU events happening that night.
+}
+
+tag : General
