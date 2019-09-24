@@ -1,0 +1,15 @@
+title    : Game Communities Roundtable
+thumb    : http://assets.sbnation.com/assets/2925183/DSC_5325.jpg
+date     : 9/27
+time     : 3:00PM
+location : Game Lab (FF035)
+
+body : {
+    !format
+    Building and maintaining communities is a crucial part of all game development in the current era.
+    Join Gamedev@IU as we discuss what makes a good community, how to build one without a huge budget, and how
+    to design your games such that people actually care about them.
+}
+
+tag : General
+tag : Design
